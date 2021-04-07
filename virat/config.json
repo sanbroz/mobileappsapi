@@ -9,7 +9,7 @@
         "title":"Home",
         "provider":"overview",
         "arguments":[
-          "http://sanbroz.co.network/apps/virat/overview.json"
+          "https://raw.githubusercontent.com/sanbroz/mobileappsapi/main/virat/overview.json"
         ]
       }
     ]
