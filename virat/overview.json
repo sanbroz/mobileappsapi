@@ -12,7 +12,7 @@
 		"image": "file:///android_asset/hydrogen.jpg",
 		"provider":"radio",
         "arguments":[
-          "https://live96.sgpc.net:8043"
+          "https://live96.sgpc.net:8043/"
         ]
   },
   {
