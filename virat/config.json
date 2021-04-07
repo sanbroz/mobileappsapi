@@ -1,1 +1,17 @@
-
+[
+  {
+    "title":"Home",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Home",
+        "provider":"overview",
+        "arguments":[
+          "http://sanbroz.co.network/apps/virat/overview.json"
+        ]
+      }
+    ]
+  }
+]

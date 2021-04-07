@@ -1,0 +1,50 @@
+[
+  {
+        "title":"Virat Radio News",
+        "image": "file:///android_asset/poster.jpg",
+		"provider":"twitter",
+        "arguments":[
+          "viratradio"
+        ]
+  },
+  {
+        "title":"Listen Live",
+		"image": "file:///android_asset/hydrogen.jpg",
+		"provider":"radio",
+        "arguments":[
+          "http://vmi96945.contabo.host:8019/stream"
+        ]
+  },
+  {
+        "title":"Call Studio",
+        "image": "file:///android_asset/sandtoblue.jpg",
+		"provider":"custom",
+        "arguments":[
+          "tel:+918054606449", "url"
+        ]
+  },
+  {
+        "title":"Send Email to Studio",
+        "image": "file:///android_asset/pinkflavour.jpg",
+		"provider":"custom",
+        "arguments":[
+          "mailto:studio@viratradio.com?subject=Message from Android App", "url"
+        ]
+  },
+  {
+        "title":"Facebook",
+        "image": "file:///android_asset/orangefun.jpg",
+		"provider":"webview",
+        "arguments":[
+          "https://www.facebook.com/Virat-Radio-1567781679965406"
+        ]
+  },
+  {
+        "title":"Youtube Videos",
+        "image": "file:///android_asset/selenium.jpg",
+		"provider":"youtube",
+        "arguments":[
+          "UCYNgcZdLNnm9Q8n0Rvn4JuQ", "channel"
+        ]
+  }
+]

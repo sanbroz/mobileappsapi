@@ -1,0 +1,50 @@
+[
+  {
+        "title":"Virat Radio Live",
+		"image": "file:///android_asset/hydrogen.jpg",
+		"provider":"radio",
+        "arguments":[
+          "http://sanbroz.co.network/apps/virat/virat_radio.m3u"
+        ]
+  },
+  {
+        "title":"Harmandir Sahib Kirtan",
+		"image": "file:///android_asset/hydrogen.jpg",
+		"provider":"radio",
+        "arguments":[
+          "http://sgpc.net:8000/"
+        ]
+  },
+  {
+        "title":"Call Studio",
+        "image": "file:///android_asset/sandtoblue.jpg",
+		"provider":"custom",
+        "arguments":[
+          "tel:+918054606449", "url"
+        ]
+  },
+  {
+        "title":"Send Email to Studio",
+        "image": "file:///android_asset/pinkflavour.jpg",
+		"provider":"custom",
+        "arguments":[
+          "mailto:studio@viratradio.com?subject=Message from Android App", "url"
+        ]
+  },
+  {
+        "title":"Facebook",
+        "image": "file:///android_asset/orangefun.jpg",
+		"provider":"webview",
+        "arguments":[
+          "https://www.facebook.com/Virat-Radio-1567781679965406"
+        ]
+  },
+  {
+        "title":"Youtube Videos",
+        "image": "file:///android_asset/selenium.jpg",
+		"provider":"youtube",
+        "arguments":[
+          "UCYNgcZdLNnm9Q8n0Rvn4JuQ", "channel"
+        ]
+  }
+]
