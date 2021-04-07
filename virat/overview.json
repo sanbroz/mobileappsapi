@@ -4,7 +4,7 @@
 		"image": "file:///android_asset/hydrogen.jpg",
 		"provider":"radio",
         "arguments":[
-          "http://sanbroz.co.network/apps/virat/virat_radio.m3u"
+          "https://raw.githubusercontent.com/sanbroz/mobileappsapi/main/virat/virat_radio.m3u"
         ]
   },
   {
